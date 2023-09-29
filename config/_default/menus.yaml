@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 947d3a55-9826-f7c7-b758-318731ddca40
+  name: Videos
+  pageRef: /video_galleries/videos
+  weight: 10
+- identifier: 1a2dddbf-08ba-29c3-9ff3-867815bbe77f
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 20
